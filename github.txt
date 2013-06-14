@@ -2,3 +2,7 @@ my first github file
 demonstrating first commit on github
 username: gbhavikn@gmail.com
 password: **************
+
+committed it on github commit"first demonstration"
+committing again with added text
+commit"second commit"

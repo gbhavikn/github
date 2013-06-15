@@ -6,3 +6,5 @@ password: **************
 committed it on github commit"first demonstration"
 committing again with added text
 commit"second commit"
+
+committing again without generating ssh key
